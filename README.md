@@ -12,6 +12,7 @@ Tecnologias Utilizadas
 - Java 17+
 - IntelliJ IDEA
 - Conceitos de Herança, Polimorfismo e Interfaces.
+- Banco de Dados: MySQL (Script SQL incluído)
 
  Autor
 Davi Silva
