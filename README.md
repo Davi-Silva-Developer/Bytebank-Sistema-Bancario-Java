@@ -54,15 +54,6 @@ Programação Orientada a Objetos
 
 *Validação de saldo e regras de negócio
 
- -- Estrutura do Projeto (resumida) --
-src
- ├── conta
- ├── cliente
- ├── banco
- └── main
-
-
-
 -- Próximas Melhorias Planejadas --
 
 Persistência de dados com JPA/Hibernate
