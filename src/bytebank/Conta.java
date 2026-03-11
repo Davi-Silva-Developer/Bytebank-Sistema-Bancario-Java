@@ -21,7 +21,7 @@ abstract class Conta {
 
     //---DEPOSITAR VALOR
     public void depositar(double valor){
-        this.saldo =+ valor;
+        this.saldo += valor;
         System.out.println("Deposito do valor: " + valor + "O saldo atual é de: " + this.saldo);
     }
 
